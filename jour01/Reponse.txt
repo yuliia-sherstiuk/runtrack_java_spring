@@ -1,4 +1,4 @@
-Ouvrez le projet dans votre IDE préféré. Examinez les fichiers et les dossiers
+2. Ouvrez le projet dans votre IDE préféré. Examinez les fichiers et les dossiers
 générés, en particulier le dossier src et le fichier pom.xml.
 
 Objectif : Comprendre la structure de base d'un projet Spring Boot.
@@ -9,7 +9,7 @@ Le fichier pom.xml est crucial car il définit toutes les dépendances, plugins 
 
 
 
-Objectif : Comprendre la structure de base d'un projet Spring Boot.
+3.Objectif : Comprendre la structure de base d'un projet Spring Boot.
 
 Question : Pourquoi le fichier pom.xml est-il crucial dans un projet Maven ?
 
