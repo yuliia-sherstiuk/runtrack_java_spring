@@ -1,0 +1,4 @@
+Objectif : Avoir un projet Spring Boot prêt à être importé dans votre IDE.
+
+Réponse :
+Spring Initializr est un générateur de projets en ligne proposé par Spring. Il permet de créer rapidement une structure de projet Spring Boot en sélectionnant le système de construction, la version de Spring Boot et les dépendances nécessaires. Cela facilite la création d’un nouveau projet, car il évite une configuration manuelle complexe et fournit immédiatement un projet prêt à être exécuté dans l’IDE.
