@@ -1,0 +1,21 @@
+spring:
+  profiles:
+    active: dev   # по умолчанию включен профиль dev
+
+---
+
+spring:
+  config:
+    activate:
+      on-profile: dev
+greeting:
+  message: "Bonjour depuis le profil DEV"
+
+---
+
+spring:
+  config:
+    activate:
+      on-profile: prod
+greeting:
+  message: "Bonjour depuis le profil PROD"
